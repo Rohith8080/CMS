@@ -7,7 +7,7 @@
 
 ## Frontend
 - React + Vite
-
+ 
 ### Setup Instructions
 
 1. **Backend**
