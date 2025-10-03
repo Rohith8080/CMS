@@ -8,7 +8,7 @@
 ## Frontend
 - React + Vite
  
-### Setup Instructions
+### Setup Instructions 
 
 1. **Backend**
    - Update `backend/.env` with your MySQL credentials.
